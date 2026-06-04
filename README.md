@@ -1,15 +1,28 @@
 # NumPy & Pandas Practice
 
-This repository contains my daily practice while learning NumPy and Pandas.
+This repository contains my daily practice while learning NumPy and Pandas for Data Analysis, AI, and Machine Learning.
 
-## Topics Covered
+## Completed Topics
 
 ### NumPy
-- Arrays
-- Array Properties
-- Sum
-- Mean
-- Max
-- Min
+
+* Introduction to NumPy
+* Creating Arrays
+* Array Attributes
+
+  * ndim
+  * shape
+  * size
+  * dtype
+* Indexing
+* Slicing
+
+## Upcoming Topics
+
+* Array Operations
+* Statistical Functions
+* Reshape
+* Filtering
+* Pandas DataFrames
 
 Learning Journey Towards AI/ML Engineering 🚀
